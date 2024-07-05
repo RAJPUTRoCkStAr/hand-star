@@ -1,0 +1,1 @@
+from hand_star.hand_star import HandStar
