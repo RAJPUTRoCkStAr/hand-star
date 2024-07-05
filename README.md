@@ -14,8 +14,9 @@ You can install HandStar using pip:
 
 ```bash
 pip install hand-star
-
-
+```
+## Code
+```bash
 import cv2
 from hand_star.hand_star import HandStar
 
@@ -48,9 +49,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
 
 ```
 
